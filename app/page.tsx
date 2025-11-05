@@ -6,7 +6,7 @@ export default function Home() {
       <Header />
 
       {/* Hero Section */}
-      <section className="max-w-6xl mx-auto px-6 pt-32 pb-20 sm:pt-40 sm:pb-32 bg-green-50">
+      <section className="max-w-6xl mx-auto px-6 pt-12 pb-20 sm:pt-16 sm:pb-32 bg-green-50">
         <div className="text-center">
           <h1 className="text-5xl sm:text-6xl lg:text-7xl font-bold text-green-900 mb-6 tracking-tight">
             Strava for Tennis
